@@ -27,12 +27,18 @@ Setiap proyek mencakup file topologi Cisco Packet Tracer, dokumentasi gambar top
 ### 🖼️ Gambar Topologi
 <img width="680" height="458" alt="Topologi Judul 2" src="https://github.com/user-attachments/assets/1e66acf1-1c6e-4961-968b-db4994cedc6b" />
 
-### Gambar Hasil Ping 
-#### Ping PC-A Ke PC-B
+### 🖼️Gambar Hasil Ping 
+#### 1. Ping PC-A Ke PC-B
 <img width="525" height="388" alt="Cuplikan layar 2025-11-11 224744" src="https://github.com/user-attachments/assets/379be2d6-4c72-4f78-b948-4e3f43442231" />
 
-#### Ping PC-A Ke Switch
+#### 2. Ping PC-A Ke Switch
 <img width="528" height="398" alt="Cuplikan layar 2025-11-11 224853" src="https://github.com/user-attachments/assets/433e886c-f0a3-4272-bb2d-f18aac7ec760" />
+
+#### 3. Ping Switch Ke PC A
+<img width="564" height="137" alt="Cuplikan layar 2025-11-11 224921" src="https://github.com/user-attachments/assets/0dfaecf2-96c1-4eab-bac5-e55b210a6940" />
+
+#### 4. Ping Router Ke PC-B, Switch, dan PC-A
+<img width="589" height="338" alt="Cuplikan layar 2025-11-11 225017" src="https://github.com/user-attachments/assets/7bb96f2e-329f-49d1-a66a-37b587eeb65e" />
 
 ---
 
