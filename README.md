@@ -8,7 +8,7 @@ Setiap proyek mencakup file topologi Cisco Packet Tracer, dokumentasi gambar top
 ## ⚙️ **JUDUL 1 : BASIC SWITCH AND END DEVICE**
 
 ### 🎥 Link Demo YouTube
-[🔗 Tugas Akhir Judul 1](https://youtu.be/_pClhaTUo4g))
+[🔗 Tugas Akhir Judul 1](https://youtu.be/_pClhaTUo4g)
 
 ### 🖼️ Gambar Topologi
 <img width="670" height="628" alt="Topologi Judul 1" src="https://github.com/user-attachments/assets/8e4be36e-efc9-42e4-b32b-d06016aeba55" />
