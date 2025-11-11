@@ -27,6 +27,15 @@ Setiap proyek mencakup file topologi Cisco Packet Tracer, dokumentasi gambar top
 ### 🖼️ Gambar Topologi
 <img width="680" height="458" alt="Topologi Judul 2" src="https://github.com/user-attachments/assets/1e66acf1-1c6e-4961-968b-db4994cedc6b" />
 
+### Gambar Hasil Ping 
+#### Ping PC-A Ke PC-B
+<img width="525" height="388" alt="Cuplikan layar 2025-11-11 224744" src="https://github.com/user-attachments/assets/379be2d6-4c72-4f78-b948-4e3f43442231" />
+
+#### Ping PC-A Ke Switch
+<img width="528" height="398" alt="Cuplikan layar 2025-11-11 224853" src="https://github.com/user-attachments/assets/433e886c-f0a3-4272-bb2d-f18aac7ec760" />
+
+---
+
 ### 📂 File
 - `PJK2_Build a Switch and Router Network.pkt`
 - `Topologi Judul 2.png`
