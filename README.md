@@ -27,6 +27,22 @@ Setiap proyek mencakup file topologi Cisco Packet Tracer, dokumentasi gambar top
 ### 🖼️ Gambar Topologi
 <img width="680" height="458" alt="Topologi Judul 2" src="https://github.com/user-attachments/assets/1e66acf1-1c6e-4961-968b-db4994cedc6b" />
 
+---
+
+### 📂 File
+- `PJK2_Build a Switch and Router Network.pkt`
+- `Topologi Judul 2.png`
+
+---
+
+## ⚙️ **JUDUL 3 : CONFIGURE VLANs AND TRUNKING - PHYSICAL MODE**
+
+### 🎥 Link Demo YouTube
+[🔗 Tugas Akhir Judul 3](https://youtu.be/WOUc_oPExjA)
+
+### 🖼️ Gambar Topologi
+<img width="953" height="447" alt="Topologi TA3" src="https://github.com/user-attachments/assets/8589433a-b2b4-4979-a823-f1f50bb38276" />
+
 ### 🖼️Gambar Hasil Ping 
 #### 1. Ping PC-A Ke PC-B
 <img width="525" height="388" alt="Cuplikan layar 2025-11-11 224744" src="https://github.com/user-attachments/assets/379be2d6-4c72-4f78-b948-4e3f43442231" />
@@ -43,8 +59,8 @@ Setiap proyek mencakup file topologi Cisco Packet Tracer, dokumentasi gambar top
 ---
 
 ### 📂 File
-- `PJK2_Build a Switch and Router Network.pkt`
-- `Topologi Judul 2.png`
+- `PJK3_Configure VLANs and Trunking - Physical Mode.pkt`
+- `Topologi Judul 3.png`
 
 ---
 
