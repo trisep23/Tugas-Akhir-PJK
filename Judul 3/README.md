@@ -42,7 +42,8 @@ Tujuan dari percobaan ini adalah untuk memahami bagaimana VLAN memisahkan jaring
   ---
 
 #### **Gambar 2 - Ping PC-B Ke S2**
-(![2](https://github.com/user-attachments/assets/bedd5f63-b510-47a8-ae56-64d1f143d2b8)
+![2](https://github.com/user-attachments/assets/bedd5f63-b510-47a8-ae56-64d1f143d2b8)
+
 Nilai statistik menunjukkan **100% packet loss**, artinya tidak ada paket ICMP yang berhasil mencapai tujuan.
 **Analisis**
 PC-B berada di jaringan **VLAN 10** dengan subnet `192.168.10.0/24`, sedangkan alamat tujuan `192.168.1.12` dimiliki oleh **VLAN 99** dengan subnet `192.168.1.0/24`.  
