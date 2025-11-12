@@ -61,7 +61,7 @@ Karena belum ada perangkat Layer 3 seperti **router** atau **multilayer switch**
 
 **A. Percobaan pertama:**  
   `Success rate is 60 percent (3/5)` → tiga paket berhasil, dua gagal.  
-- **B. Percobaan kedua:**  
+**B. Percobaan kedua:**  
   `Success rate is 100 percent (5/5)` → seluruh paket ICMP berhasil dikirim dan diterima.
 **Analisis**
 Hasil pengujian menunjukkan bahwa koneksi antara **S1 (192.168.1.11)** dan **S2 (192.168.1.12)** berhasil setelah beberapa kali percobaan.  
