@@ -1,4 +1,3 @@
-
 ## **JUDUL 3 : CONFIGURE VLANs AND TRUNKING - PHYSICAL MODE**
 
 ### **Link Demo YouTube**
@@ -58,6 +57,7 @@ Karena belum ada perangkat Layer 3 seperti **router** atau **multilayer switch**
 
 #### **Gambar 3 - Ping S1 Ke S2**
 ![3](https://github.com/user-attachments/assets/01ab2e9c-7b29-4bee-842b-94025f124ac5)
+
 **A. Percobaan pertama:**  
   `Success rate is 60 percent (3/5)` → tiga paket berhasil, dua gagal.  
 - **B. Percobaan kedua:**  
