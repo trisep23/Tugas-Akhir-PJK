@@ -1,7 +1,7 @@
 ## **JUDUL 3 : CONFIGURE VLANs AND TRUNKING - PHYSICAL MODE**
 
 ### **Link Demo YouTube**
-[🔗 (youtube.com/watch?v=WOUc_oPExjA&feature=youtu.be)
+[🔗 (youtube.com/watch?v=WOUc_oPExjA&feature=youtu.be)}
 
 ---
 
