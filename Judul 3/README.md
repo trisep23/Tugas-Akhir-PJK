@@ -1,7 +1,7 @@
 ## **JUDUL 3 : CONFIGURE VLANs AND TRUNKING - PHYSICAL MODE**
 
 ### **Link Demo YouTube**
-[🔗 Tugas Akhir Judul 3](https://youtu.be/WOUc_oPExjA)
+[🔗 Tugas Akhir Judul 3]([https://youtu.be/WOUc_oPExjA](https://youtu.be/WOUc_oPExjA))
 
 ---
 
