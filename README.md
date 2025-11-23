@@ -56,22 +56,15 @@ Setiap proyek mencakup file topologi Cisco Packet Tracer, dokumentasi gambar top
 ### 🖼️ Gambar Topologi
 <img width="953" height="447" alt="Topologi TA3" src="https://github.com/user-attachments/assets/8589433a-b2b4-4979-a823-f1f50bb38276" />
 
----
 ### **Hasil Pengujian**
 #### **Gambar 1 - Ping PC-A ke PC-B, dan Ping PC-A ke S1**
 ![1](https://github.com/user-attachments/assets/fbfd7fe1-0cd2-4889-a327-abde362837b2)
 
----
-
 #### **Gambar 2 - Ping PC-B Ke S2**
 ![2](https://github.com/user-attachments/assets/bedd5f63-b510-47a8-ae56-64d1f143d2b8)
 
----
-
 #### **Gambar 3 - Ping S1 Ke S2**
 ![3](https://github.com/user-attachments/assets/01ab2e9c-7b29-4bee-842b-94025f124ac5)
-
----
 
 ### **KESIMPULAN**
 Berdasarkan hasil seluruh pengujian konektivitas, dapat disimpulkan bahwa konfigurasi VLAN dan trunking telah berjalan dengan baik. Koneksi antar switch melalui VLAN 99 berfungsi normal sebagai jalur manajemen, dan komunikasi antar PC dalam VLAN 10 berhasil sepenuhnya melalui port trunk antar switch. Sementara itu, koneksi antar VLAN masih tidak memungkinkan karena belum terdapat perangkat Layer 3 yang menjalankan fungsi routing. Hasil ini menunjukkan bahwa VLAN efektif dalam memisahkan domain jaringan untuk meningkatkan keamanan dan efisiensi, sedangkan trunk berperan penting sebagai penghubung VLAN yang sama antar switch.
