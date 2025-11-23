@@ -69,7 +69,6 @@ Setiap proyek mencakup file topologi Cisco Packet Tracer, dokumentasi gambar top
 ### **KESIMPULAN**
 Berdasarkan hasil seluruh pengujian konektivitas, dapat disimpulkan bahwa konfigurasi VLAN dan trunking telah berjalan dengan baik. Koneksi antar switch melalui VLAN 99 berfungsi normal sebagai jalur manajemen, dan komunikasi antar PC dalam VLAN 10 berhasil sepenuhnya melalui port trunk antar switch. Sementara itu, koneksi antar VLAN masih tidak memungkinkan karena belum terdapat perangkat Layer 3 yang menjalankan fungsi routing. Hasil ini menunjukkan bahwa VLAN efektif dalam memisahkan domain jaringan untuk meningkatkan keamanan dan efisiensi, sedangkan trunk berperan penting sebagai penghubung VLAN yang sama antar switch.
 
---
 
 ### 📂 File
 - `PJK3_Configure VLANs and Trunking - Physical Mode.pkt`
